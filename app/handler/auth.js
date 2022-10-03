@@ -88,3 +88,5 @@ class AuthHandler extends BaseAutoBindedClass {
 }
 
 module.exports = AuthHandler;
+
+const tahabana = "Tahabana"

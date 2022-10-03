@@ -40,4 +40,3 @@ app.listen(global.config.server.PORT, function () {
 });
 
 
-const tahabana = "Tahabana"
